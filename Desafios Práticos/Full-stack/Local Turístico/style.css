@@ -13,6 +13,8 @@ header {
     background-color: #c91c1c;
     font-family: "Poppins", sans-serif;
     font-weight: 200;
+    position: sticky;
+    top: 0px;
 }
 
 .divider {
